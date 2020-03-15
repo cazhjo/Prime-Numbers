@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primtal", "Primtal\Primtal.csproj", "{FE01B3DA-C3CD-460A-A24E-AFE0D585CBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTest", "PrimeTest\PrimeTest.csproj", "{9A3FD7FD-D064-4501-B0CE-DF5B476D0421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE01B3DA-C3CD-460A-A24E-AFE0D585CBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE01B3DA-C3CD-460A-A24E-AFE0D585CBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE01B3DA-C3CD-460A-A24E-AFE0D585CBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE01B3DA-C3CD-460A-A24E-AFE0D585CBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3FD7FD-D064-4501-B0CE-DF5B476D0421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3FD7FD-D064-4501-B0CE-DF5B476D0421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3FD7FD-D064-4501-B0CE-DF5B476D0421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3FD7FD-D064-4501-B0CE-DF5B476D0421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523BE7B7-70ED-4201-913C-F30D466602CE}
+	EndGlobalSection
+EndGlobal
